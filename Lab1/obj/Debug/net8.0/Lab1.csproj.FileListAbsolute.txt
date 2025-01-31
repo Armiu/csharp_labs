@@ -1,0 +1,4 @@
+/home/arina/Desktop/c#_hw/Lab1/obj/Debug/net8.0/Lab1.GeneratedMSBuildEditorConfig.editorconfig
+/home/arina/Desktop/c#_hw/Lab1/obj/Debug/net8.0/Lab1.AssemblyInfoInputs.cache
+/home/arina/Desktop/c#_hw/Lab1/obj/Debug/net8.0/Lab1.AssemblyInfo.cs
+/home/arina/Desktop/c#_hw/Lab1/obj/Debug/net8.0/Lab1.csproj.CoreCompileInputs.cache

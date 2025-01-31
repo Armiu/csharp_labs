@@ -1,0 +1,14 @@
+/home/arina/Desktop/c#_hw/Lab2/obj/Debug/net8.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/home/arina/Desktop/c#_hw/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfoInputs.cache
+/home/arina/Desktop/c#_hw/Lab2/obj/Debug/net8.0/Lab2.AssemblyInfo.cs
+/home/arina/Desktop/c#_hw/Lab2/obj/Debug/net8.0/Lab2.csproj.CoreCompileInputs.cache
+/home/arina/Desktop/c#_hw/Lab2/bin/Debug/net8.0/Lab2
+/home/arina/Desktop/c#_hw/Lab2/bin/Debug/net8.0/Lab2.deps.json
+/home/arina/Desktop/c#_hw/Lab2/bin/Debug/net8.0/Lab2.runtimeconfig.json
+/home/arina/Desktop/c#_hw/Lab2/bin/Debug/net8.0/Lab2.dll
+/home/arina/Desktop/c#_hw/Lab2/bin/Debug/net8.0/Lab2.pdb
+/home/arina/Desktop/c#_hw/Lab2/obj/Debug/net8.0/Lab2.dll
+/home/arina/Desktop/c#_hw/Lab2/obj/Debug/net8.0/refint/Lab2.dll
+/home/arina/Desktop/c#_hw/Lab2/obj/Debug/net8.0/Lab2.pdb
+/home/arina/Desktop/c#_hw/Lab2/obj/Debug/net8.0/Lab2.genruntimeconfig.cache
+/home/arina/Desktop/c#_hw/Lab2/obj/Debug/net8.0/ref/Lab2.dll
